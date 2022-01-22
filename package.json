@@ -1,0 +1,21 @@
+{
+  "name": "web-realtime",
+  "version": "1.0.0",
+  "description": "front with react and back with express for testing realtime strategies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:web": "cd ./web ; npm start",
+    "start:api": "cd ./api; npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobelotto/web-realtime.git"
+  },
+  "author": "Fernando Belotto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobelotto/web-realtime/issues"
+  },
+  "homepage": "https://github.com/fernandobelotto/web-realtime#readme"
+}
